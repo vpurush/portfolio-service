@@ -45,8 +45,6 @@ Resources:
 
             Environment: # More info about Env Vars: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#environment-object
                 Variables:
-                    AWS_ACCESS_KEY_ID: AKIAILFGAOBYGMVMEV2Q
-                    AWS_SECRET_ACCESS_KEY: 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
                     ALLOW_ORIGIN: http://localhost:8080
 
 
@@ -67,8 +65,6 @@ Resources:
 
             Environment: # More info about Env Vars: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#environment-object
                 Variables:
-                    AWS_ACCESS_KEY_ID: AKIAILFGAOBYGMVMEV2Q
-                    AWS_SECRET_ACCESS_KEY: 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
                     ALLOW_ORIGIN: http://localhost:8080
 
 Outputs:
